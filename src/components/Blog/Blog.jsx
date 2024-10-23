@@ -19,7 +19,7 @@ const Blog = ({blog, handleAddToBookmarks}) => {
             <div className='flex items-center'>
                 <span className='font-medium text-xl text-[#11111199]'>{reading_time} min read</span>
                 <div>
-                <button onClick={handleAddToBookmarks}
+                <button onClick={ () => handleAddToBookmarks(blog)}
                  className='ml-2 mt-3 text-xl text-emerald-600'><FiBookmark></FiBookmark></button>
                 </div>
             </div>
@@ -34,6 +34,8 @@ const Blog = ({blog, handleAddToBookmarks}) => {
     );
 };
 Blog.propTypes = {
-    blog: PropTypes.object.isRequired
+    blog: PropTypes.object.isRequired,
+    handleAddToBookmarks:PropTypes.func
+
 }
 export default Blog;
