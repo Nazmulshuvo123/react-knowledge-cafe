@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/ysWwsLz/4294605.jpg",
+    "title": "The Silent Patient",
+    "author_img": "https://i.ibb.co.com/b5xT90v/pexels-alipazani-2681751.jpg",
+    "author": "Alex Michaelides",
+    "posted_date": "2023-11-15",
+    "reading_time": 5,
+    "hashtags": ["#thriller", "#mystery"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/dcDZ9Pn/4850753.jpg",
+    "title": "The Midnight Library",
+    "author_img": "https://i.ibb.co.com/6D9sf1c/pexels-amie-roussel-1990939723-28978120.jpg",
+    "author": "Matt Haig",
+    "posted_date": "2022-09-21",
+    "reading_time": 4,
+    "hashtags": ["#fiction", "#fantasy"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/jM3mG65/top-view-desk-concept-with-coffee.jpg",
+    "title": "The Guest List",
+    "author_img": "https://i.ibb.co.com/BZbHDN4/pexels-nikitash-21839018.jpg",
+    "author": "Lucy Foley",
+    "posted_date": "2020-05-12",
+    "reading_time": 6,
+    "hashtags": ["#mystery", "#thriller"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/SJmJMhm/5423587.jpg",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author_img": "https://i.ibb.co.com/c2tkNKW/pexels-n-voitkevich-4445619.jpg",
+    "author": "Taylor Jenkins Reid",
+    "posted_date": "2020-05-12",
+    "reading_time": 5,
+    "hashtags": ["#history", "#romance"]
+  }
+]
